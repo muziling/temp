@@ -1,0 +1,39 @@
+{
+    "code": 1,
+    "msg": "",
+    "page": 1,
+    "pagecount": 1,
+    "limit": "15",
+    "total": 3,
+    "list": [{
+            "vod_id": "3344",
+            "vod_name": "千古风流人物第1季",
+            "vod_remarks": "共26集",
+            "vod_pic": "http://wework.qpic.cn/wwpic/561853_SL1n5VXGRuyGaWn_1660126697/0",
+            "vod_play_from_cfg": "csp_fantuan"
+        },{
+            "vod_id": "3343",
+            "vod_name": "千古风流人物第2季",
+            "vod_remarks": "共12集",
+            "vod_pic": "http://wework.qpic.cn/wwpic/674625_LgA6AR31RiiFU1P_1660126696/0",
+            "vod_play_from_cfg": "csp_fantuan"
+        },{
+            "vod_id": "https://www.aliyundrive.com/s/PfQGCdYE6te/folder/6326d7c3672f3d2050324e20b8a8024237aa4a9e",
+            "vod_name": "大明王朝1566",
+            "vod_remarks": "共46集",
+            "vod_pic": "http://wework.qpic.cn/wwpic/318845_pYJO84ZGSjmWv8J_1660070884/0",
+            "vod_play_from_cfg": "push_agent"
+        },{
+            "vod_id": "112989",
+            "vod_name": "一年一度喜剧大赛",
+            "vod_remarks": "",
+            "vod_pic": "https://m.360buyimg.com/pop/jfs/t1/217282/3/11027/109046/61e47e4fE15f66034/27f84f3ae9de4b9a.jpg",
+            "vod_play_from_cfg": "小苹果"
+        }
+    ],
+    "class": [{
+            "type_id": 1,
+            "type_name": " 👉这里"
+        }
+    ]
+}
