@@ -1,0 +1,55 @@
+{
+    "sites": [{
+            "key": "我的TV",
+            "name": "我的TV",
+            "type": 1,
+            "api": "https://raw.githubusercontent.com/muziling/temp/main/tvapi",
+            "playUrl": "",
+            "searchable": 0,
+            "quickSearch": 0
+        }, {
+            "key": "csp_fantuan",
+            "name": "🍙饭团",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.fantuanhd.com"
+        }, {
+            "key": "小苹果",
+            "name": "🍎小苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, {
+            "key": "push_agent",
+            "name": "🍭推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "hide": 1,
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
+        }
+    ],
+    "parses": [{
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        }, {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        }, {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        }
+    ],
+    "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;573BE8213FA597C2E473C0ADF14B3A82"
+}
